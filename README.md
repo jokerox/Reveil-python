@@ -1,4 +1,4 @@
-# Reveil-python
+# Reveil-python V2
 Réveil avec Python
 Comme le titre l’indique, notre tâche consiste ici à écrire un script python qui crée un réveil. Pour cette tâche, j’utiliserai le module DateTime en Python pour créer un réveil et la bibliothèque de sons en Python pour jouer le son de l’alarme.
 
